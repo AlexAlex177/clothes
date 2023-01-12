@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.shop {
+  background-color: rgb(223, 242, 250);
+  padding: 3px;
+  border: 1px rgb(99, 168, 247) solid;
+  margin-top: 20px;
+  border-radius: 5px;
+
+}
+
+.shop:hover {
+  background-color: rgb(20, 146, 196);
+  color: white;
+}
+
+.visit {
+  margin-top: 30px;
+
+}
+
+.sold {
+  background-color: #d7f2f8;
+
+}
+
+th {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 16px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: grey;
+}
+
+td {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 16px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(44, 42, 42);
+}
+
+.btn2 {
+  background-color: rgb(223, 242, 250);
+  padding: 1px;
+  border: 1px rgb(99, 168, 247) solid;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+.btn2:hover {
+  background-color: rgb(20, 146, 196);
+  color: white;
+}
